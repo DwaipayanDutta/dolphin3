@@ -1,5 +1,6 @@
 from setuptools import setup, find_packages
 
+# Optionally read README.md for long description
 def read_long_description():
     try:
         with open("README.md", "r", encoding="utf-8") as f:
@@ -15,7 +16,7 @@ setup(
     long_description_content_type='text/markdown',
     author='Dwaipayan',
     author_email='dwdutta@gmail.com',
-    url='https://github.com/DwaipayanDutta/dolphin3',  
+    url='https://github.com/yourusername/dolphin3',  # Update this if applicable
     license='MIT',  # Change if using a different license
     packages=find_packages(),
     include_package_data=True,

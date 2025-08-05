@@ -1,0 +1,11 @@
+README.md
+setup.py
+dolphin3/__init__.py
+dolphin3/client.py
+dolphin3/gui.py
+dolphin3/magic.py
+dolphin3.egg-info/PKG-INFO
+dolphin3.egg-info/SOURCES.txt
+dolphin3.egg-info/dependency_links.txt
+dolphin3.egg-info/requires.txt
+dolphin3.egg-info/top_level.txt
