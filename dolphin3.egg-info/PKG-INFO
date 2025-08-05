@@ -2,7 +2,7 @@ Metadata-Version: 2.4
 Name: dolphin3
 Version: 0.1.0
 Summary: Offline Dolphin 3 question-answering client via Ollama
-Home-page: https://github.com/yourusername/dolphin3
+Home-page: https://github.com/DwaipayanDutta/dolphin3
 Author: Dwaipayan
 Author-email: dwdutta@gmail.com
 License: MIT
