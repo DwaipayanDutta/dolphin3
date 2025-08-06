@@ -16,7 +16,7 @@ setup(
     long_description_content_type='text/markdown',
     author='Dwaipayan',
     author_email='dwdutta@gmail.com',
-    url='https://github.com/yourusername/dolphin3',  # Update this if applicable
+    url='https://github.com/DwaipayanDutta/dolphin3',  # Update this if applicable
     license='MIT',  # Change if using a different license
     packages=find_packages(),
     include_package_data=True,
